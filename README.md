@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas Domingues
 
-<!--
-**LucasDominguesDEV/LucasDominguesDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Análise e Desenvolvimento de Sistemas - UNISO 
+💻 Foco em desenvolvimento de sistemas e/ou sites
 
-Here are some ideas to get you started:
+## 🚀 Projetos
+- 📊 [Análise de Vendas em Python]()
+- 🛒 [Bonus de venda] ()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Python - intermediário
+- PHP - iniciante
+- HTML/CSS/JS - iniciante/intermediário
+- MySQL - iniciante
+- Excel - intermediário/avançado
+
+## 📫 Contato
+- GitHub: https://github.com/LucasDominguesDEV
+- Email: lucas.domingues568@gmail.com
+- Contato telefone: (15) 98101-3052
