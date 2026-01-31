@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas Domingues
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas - UNISO 
-💻 Foco em desenvolvimento de sistemas e/ou sites
+💻 Foco em desenvolvimento de sistemas e sites
 
 ## 🚀 Projetos
 - 📊 [Análise de Vendas em Python](https://github.com/LucasDominguesDEV/lista_vendas-py)
