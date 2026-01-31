@@ -4,8 +4,9 @@
 💻 Foco em desenvolvimento de sistemas e sites
 
 ## 🚀 Projetos
-- 📊 [Análise de Vendas em Python](https://github.com/LucasDominguesDEV/lista_vendas-py)
-- 🛒 [Bonus de venda] ()
+- [Análise de Vendas em Python](https://github.com/LucasDominguesDEV/lista_vendas-py)
+- [Verificador de CPF](https://github.com/LucasDominguesDEV/verificador-CPF-python)
+- [Lista de compras]()
 
 ## 🛠️ Tecnologias
 - Python - intermediário
