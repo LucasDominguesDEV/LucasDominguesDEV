@@ -4,7 +4,7 @@
 💻 Foco em desenvolvimento de sistemas e/ou sites
 
 ## 🚀 Projetos
-- 📊 [Análise de Vendas em Python]()
+- 📊 [Análise de Vendas em Python](https://github.com/LucasDominguesDEV/lista_vendas-py)
 - 🛒 [Bonus de venda] ()
 
 ## 🛠️ Tecnologias
