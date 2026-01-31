@@ -7,6 +7,7 @@
 - [Análise de Vendas em Python](https://github.com/LucasDominguesDEV/lista_vendas-py)
 - [Verificador de CPF](https://github.com/LucasDominguesDEV/verificador-CPF-python)
 - [Lista de compras](https://github.com/LucasDominguesDEV/lista-de-compras-python/tree/main)
+- [Jogo de adivinhar a palavra](https://github.com/LucasDominguesDEV/palavra_secreta-python/tree/main)
 
 ## 🛠️ Tecnologias
 - Python - intermediário
