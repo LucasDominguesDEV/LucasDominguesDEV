@@ -6,7 +6,7 @@
 ## 🚀 Projetos
 - [Análise de Vendas em Python](https://github.com/LucasDominguesDEV/lista_vendas-py)
 - [Verificador de CPF](https://github.com/LucasDominguesDEV/verificador-CPF-python)
-- [Lista de compras]()
+- [Lista de compras](https://github.com/LucasDominguesDEV/lista-de-compras-python/tree/main)
 
 ## 🛠️ Tecnologias
 - Python - intermediário
